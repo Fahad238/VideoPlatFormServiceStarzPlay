@@ -1,0 +1,9 @@
+Video Platform Service
+
+Technology stack
+Spring ,Spring boot, JPA/Hibernate , Postgresql 
+
+scripts are under src/main/resources/scripts
+
+Dependencies can be found from pom.xml 
+

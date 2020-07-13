@@ -1,0 +1,7 @@
+org\starzplay\payment\paymentmethod\model\PaymentMethod.class
+org\starzplay\payment\paymentmethod\controller\PaymentController.class
+org\starzplay\payment\paymentmethod\VideoPlatformServiceStarter.class
+org\starzplay\payment\paymentmethod\PaymentPlanNotFoundException.class
+org\starzplay\payment\paymentmethod\repository\PaymentRepositoryImpl.class
+org\starzplay\payment\paymentmethod\model\PaymentPlan.class
+org\starzplay\payment\paymentmethod\model\PaymentMethodParent.class

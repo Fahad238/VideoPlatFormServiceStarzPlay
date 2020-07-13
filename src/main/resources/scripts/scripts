@@ -1,0 +1,16 @@
+Scripts
+-- Database: VideoService
+
+-- DROP DATABASE "VideoService";
+
+CREATE DATABASE "VideoService"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'English_Pakistan.1252'
+    LC_CTYPE = 'English_Pakistan.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+    
+    
+   -- Table Generation is from hibernate/JPA
